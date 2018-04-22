@@ -1,16 +1,16 @@
 # macOS Automator workflow
 
-* 一键推出所有挂载磁盘.workflow
+### 一键推出所有挂载磁盘.workflow
 
-  弃用。改用 Alfred 的 Eject
+> 弃用。改用 Alfred 的 Eject
 
 
 
-* 重命名文件-按修改时间.workflow
+### 重命名文件-按修改时间.workflow
 
-  需求场景：照片用修改时间批量重命名
+需求场景：照片用修改时间批量重命名
 
-  使用方法：
+使用方法：
 
 ​	1，[下载](https://github.com/NodeWee/Automator-Workflow/archive/master.zip) “重命名文件-按修改时间.workflow” 和 "rename_file_with_time.py” 两个文件
 
