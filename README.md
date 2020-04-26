@@ -1,6 +1,3 @@
-# OpenExercise
+# OpenSnippets
 
-分享代码片段
-
-
-个人主页：https://nodewee.github.io
+Open code or other snippets
